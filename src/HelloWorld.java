@@ -1,4 +1,4 @@
-
+//Hello
 public class HelloWorld {
 	public void masterM2(){
 		System.out.println("Master method");
